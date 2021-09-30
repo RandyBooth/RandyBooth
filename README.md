@@ -18,6 +18,5 @@
 ![](https://img.shields.io/badge/Server-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 
 ## ✉️ Get in touch
-- E-mail: Randy.Booth@gmail.com
 - Twitter: https://twitter.com/RandyBooth
 - LinkedIn: https://www.linkedin.com/in/rbooth
